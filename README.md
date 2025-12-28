@@ -27,13 +27,14 @@ The project is built on the **GTZAN music genre dataset** and follows a clean, r
 ## 🗂️ Dataset
 
 - **Dataset:** GTZAN Music Genre Dataset  
-- **Genres (10):**
+- **Source:** https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification  
+- **Genres (10):**  
 - **blues, classical, country, disco, hiphop,jazz, metal, pop, reggae, rock.**
 - - **Audio format:** WAV  
 - **Duration:** ~30 seconds per track  
 - **Sample rate:** 22,050 Hz  
 
-> ⚠️ Corrupted files are automatically skipped during loading.
+
 
 ---
 
